@@ -9,8 +9,7 @@
                         ██        ██  ██   ██                                                      
                         █████      ████    █████                                                   
                         ██        ██  ██   ██                                                      
-                        ███████  ██    ██  ███████                                                 
-
+                        ███████  ██    ██  ███████
 
 AbsoluteZero.exe | a Long Chaotic Destructuctive GDI Malware Made in C# You need .net 3.5 to run this
 This is my final C# project of this nature as I will be pivoting my focus entirely toward low-level system 
